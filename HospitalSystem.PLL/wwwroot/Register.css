@@ -1,0 +1,44 @@
+﻿.container{
+    margin-bottom: 30px;
+}
+.image-container {
+    display: flex;
+    justify-content: center;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+}
+
+h4.form-header {
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.form-group label {
+    font-weight: bold;
+    color: #333;
+}
+
+.form-control {
+    border-radius: 5px;
+}
+
+.btn-register {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+@media (max-width: 768px) {
+    .image-container {
+        display: none;
+    }
+
+    .col-md-6 {
+        max-width: 100%;
+        margin: auto;
+    }
+}

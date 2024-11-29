@@ -1,0 +1,58 @@
+﻿@using HospitalSystem.BLL.ModelVM.Account
+@model LoginVM
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<head>
+    <link rel="stylesheet" href="~/custom.css">
+</head>
+
+<div class="container">
+    <div class="row">
+        <!-- Left Side: Image and Create Account -->
+        <div class="col-md-6">
+            <div class="image-container">
+               <img src="~/login_register.jpg" alt="Doctor" class="img-fluid" width="400px">
+               <div class="register">
+                    <h6>Don't Have an Account?</h6>
+                    <a asp-controller="Account" asp-action="Register" class="btn btn-success">Create Account</a>
+               </div>
+            </div>
+        </div>
+
+        <!-- Right Side: Login Form -->
+        <div class="col-md-6">
+            <h2>Login</h2>
+            <p>Get your appointments from here!</p>
+
+            <form asp-controller="Account" asp-action="LoginSubmitted" method="post">
+                @Html.AntiForgeryToken()
+                <div class="form-group">
+                    <label asp-for="Email">Email</label>
+                    <input type="email" asp-for="Email" class="form-control" id="email" placeholder="Enter email" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Password">Password</label>
+                    <input type="password" asp-for="Password" class="form-control" id="password" placeholder="Enter password" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+                <div class="form-check">
+                    <input asp-for="RememberMe" class="form-check-input" />
+                    <label asp-for="RememberMe" class="form-check-label">Remember Me</label>
+                </div>
+
+                <a asp-controller="Account" asp-action="ForgotPassword">Forgot your password?</a>
+
+                <button type="submit" class="btn btn-success mt-2">Login</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial.cshtml" />
+}

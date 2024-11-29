@@ -1,0 +1,168 @@
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.deps.json
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.runtimeconfig.json
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.dll
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.pdb
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.csproj.AssemblyReference.cache
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.AssemblyInfoInputs.cache
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.AssemblyInfo.cs
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.csproj.CoreCompileInputs.cache
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.dll
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.DAL/obj/Debug/net8.0/refint/HospitalSystem.DAL.dll
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.pdb
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.genruntimeconfig.cache
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.DAL/obj/Debug/net8.0/ref/HospitalSystem.DAL.dll
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.deps.json
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.runtimeconfig.json
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.dll
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.pdb
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.csproj.AssemblyReference.cache
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.AssemblyInfoInputs.cache
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.AssemblyInfo.cs
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.csproj.CoreCompileInputs.cache
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.dll
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.DAL/obj/Debug/net8.0/refint/HospitalSystem.DAL.dll
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.pdb
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.genruntimeconfig.cache
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.DAL/obj/Debug/net8.0/ref/HospitalSystem.DAL.dll
+F:/c#level1/yasmin/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.deps.json
+F:/c#level1/yasmin/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.runtimeconfig.json
+F:/c#level1/yasmin/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.dll
+F:/c#level1/yasmin/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.pdb
+F:/c#level1/yasmin/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.csproj.AssemblyReference.cache
+F:/c#level1/yasmin/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:/c#level1/yasmin/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.AssemblyInfoInputs.cache
+F:/c#level1/yasmin/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.AssemblyInfo.cs
+F:/c#level1/yasmin/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.csproj.CoreCompileInputs.cache
+F:/c#level1/yasmin/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.dll
+F:/c#level1/yasmin/HospitalSystem.DAL/obj/Debug/net8.0/refint/HospitalSystem.DAL.dll
+F:/c#level1/yasmin/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.pdb
+F:/c#level1/yasmin/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.genruntimeconfig.cache
+F:/c#level1/yasmin/HospitalSystem.DAL/obj/Debug/net8.0/ref/HospitalSystem.DAL.dll
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.deps.json
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.runtimeconfig.json
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.dll
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.pdb
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.csproj.AssemblyReference.cache
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.AssemblyInfoInputs.cache
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.AssemblyInfo.cs
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.csproj.CoreCompileInputs.cache
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.dll
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.DAL/obj/Debug/net8.0/refint/HospitalSystem.DAL.dll
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.pdb
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.genruntimeconfig.cache
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.DAL/obj/Debug/net8.0/ref/HospitalSystem.DAL.dll
+F:/c#level1/rovan/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.deps.json
+F:/c#level1/rovan/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.runtimeconfig.json
+F:/c#level1/rovan/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.dll
+F:/c#level1/rovan/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.pdb
+F:/c#level1/rovan/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.csproj.AssemblyReference.cache
+F:/c#level1/rovan/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:/c#level1/rovan/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.AssemblyInfoInputs.cache
+F:/c#level1/rovan/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.AssemblyInfo.cs
+F:/c#level1/rovan/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.csproj.CoreCompileInputs.cache
+F:/c#level1/rovan/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.dll
+F:/c#level1/rovan/HospitalSystem.DAL/obj/Debug/net8.0/refint/HospitalSystem.DAL.dll
+F:/c#level1/rovan/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.pdb
+F:/c#level1/rovan/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.genruntimeconfig.cache
+F:/c#level1/rovan/HospitalSystem.DAL/obj/Debug/net8.0/ref/HospitalSystem.DAL.dll
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.deps.json
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.runtimeconfig.json
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.dll
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.pdb
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.csproj.AssemblyReference.cache
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.AssemblyInfoInputs.cache
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.AssemblyInfo.cs
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.csproj.CoreCompileInputs.cache
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.dll
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.DAL/obj/Debug/net8.0/refint/HospitalSystem.DAL.dll
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.pdb
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.genruntimeconfig.cache
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.DAL/obj/Debug/net8.0/ref/HospitalSystem.DAL.dll
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.deps.json
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.runtimeconfig.json
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.dll
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.pdb
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.csproj.AssemblyReference.cache
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.AssemblyInfoInputs.cache
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.AssemblyInfo.cs
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.csproj.CoreCompileInputs.cache
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.dll
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.DAL/obj/Debug/net8.0/refint/HospitalSystem.DAL.dll
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.pdb
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.genruntimeconfig.cache
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.DAL/obj/Debug/net8.0/ref/HospitalSystem.DAL.dll
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.deps.json
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.runtimeconfig.json
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.dll
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.pdb
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.csproj.AssemblyReference.cache
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.AssemblyInfoInputs.cache
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.AssemblyInfo.cs
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.csproj.CoreCompileInputs.cache
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.dll
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.DAL/obj/Debug/net8.0/refint/HospitalSystem.DAL.dll
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.pdb
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.genruntimeconfig.cache
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.DAL/obj/Debug/net8.0/ref/HospitalSystem.DAL.dll
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.deps.json
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.runtimeconfig.json
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.dll
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.pdb
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.csproj.AssemblyReference.cache
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.AssemblyInfoInputs.cache
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.AssemblyInfo.cs
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.csproj.CoreCompileInputs.cache
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.dll
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.DAL/obj/Debug/net8.0/refint/HospitalSystem.DAL.dll
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.pdb
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.genruntimeconfig.cache
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.DAL/obj/Debug/net8.0/ref/HospitalSystem.DAL.dll
+/home/anon/Downloads/HospitalSystem/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.deps.json
+/home/anon/Downloads/HospitalSystem/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.runtimeconfig.json
+/home/anon/Downloads/HospitalSystem/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.dll
+/home/anon/Downloads/HospitalSystem/HospitalSystem.DAL/bin/Debug/net8.0/HospitalSystem.DAL.pdb
+/home/anon/Downloads/HospitalSystem/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.csproj.AssemblyReference.cache
+/home/anon/Downloads/HospitalSystem/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/home/anon/Downloads/HospitalSystem/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.AssemblyInfoInputs.cache
+/home/anon/Downloads/HospitalSystem/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.AssemblyInfo.cs
+/home/anon/Downloads/HospitalSystem/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.csproj.CoreCompileInputs.cache
+/home/anon/Downloads/HospitalSystem/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.dll
+/home/anon/Downloads/HospitalSystem/HospitalSystem.DAL/obj/Debug/net8.0/refint/HospitalSystem.DAL.dll
+/home/anon/Downloads/HospitalSystem/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.pdb
+/home/anon/Downloads/HospitalSystem/HospitalSystem.DAL/obj/Debug/net8.0/HospitalSystem.DAL.genruntimeconfig.cache
+/home/anon/Downloads/HospitalSystem/HospitalSystem.DAL/obj/Debug/net8.0/ref/HospitalSystem.DAL.dll
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.DAL\bin\Debug\net8.0\HospitalSystem.DAL.deps.json
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.DAL\bin\Debug\net8.0\HospitalSystem.DAL.runtimeconfig.json
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.DAL\bin\Debug\net8.0\HospitalSystem.DAL.dll
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.DAL\bin\Debug\net8.0\HospitalSystem.DAL.pdb
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.DAL\obj\Debug\net8.0\HospitalSystem.DAL.csproj.AssemblyReference.cache
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.DAL\obj\Debug\net8.0\HospitalSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.DAL\obj\Debug\net8.0\HospitalSystem.DAL.AssemblyInfoInputs.cache
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.DAL\obj\Debug\net8.0\HospitalSystem.DAL.AssemblyInfo.cs
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.DAL\obj\Debug\net8.0\HospitalSystem.DAL.csproj.CoreCompileInputs.cache
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.DAL\obj\Debug\net8.0\HospitalSystem.DAL.dll
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.DAL\obj\Debug\net8.0\refint\HospitalSystem.DAL.dll
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.DAL\obj\Debug\net8.0\HospitalSystem.DAL.pdb
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.DAL\obj\Debug\net8.0\HospitalSystem.DAL.genruntimeconfig.cache
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.DAL\obj\Debug\net8.0\ref\HospitalSystem.DAL.dll
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.DAL\bin\Debug\net8.0\HospitalSystem.DAL.deps.json
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.DAL\bin\Debug\net8.0\HospitalSystem.DAL.runtimeconfig.json
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.DAL\bin\Debug\net8.0\HospitalSystem.DAL.dll
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.DAL\bin\Debug\net8.0\HospitalSystem.DAL.pdb
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.DAL\obj\Debug\net8.0\HospitalSystem.DAL.csproj.AssemblyReference.cache
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.DAL\obj\Debug\net8.0\HospitalSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.DAL\obj\Debug\net8.0\HospitalSystem.DAL.AssemblyInfoInputs.cache
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.DAL\obj\Debug\net8.0\HospitalSystem.DAL.AssemblyInfo.cs
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.DAL\obj\Debug\net8.0\HospitalSystem.DAL.csproj.CoreCompileInputs.cache
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.DAL\obj\Debug\net8.0\HospitalSystem.DAL.dll
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.DAL\obj\Debug\net8.0\refint\HospitalSystem.DAL.dll
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.DAL\obj\Debug\net8.0\HospitalSystem.DAL.pdb
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.DAL\obj\Debug\net8.0\HospitalSystem.DAL.genruntimeconfig.cache
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.DAL\obj\Debug\net8.0\ref\HospitalSystem.DAL.dll

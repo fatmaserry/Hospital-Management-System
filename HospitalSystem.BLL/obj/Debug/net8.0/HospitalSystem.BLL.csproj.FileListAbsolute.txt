@@ -1,0 +1,180 @@
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.deps.json
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.dll
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.pdb
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.DAL.dll
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.DAL.pdb
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.csproj.AssemblyReference.cache
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.AssemblyInfoInputs.cache
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.AssemblyInfo.cs
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.csproj.CoreCompileInputs.cache
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.BLL/obj/Debug/net8.0/Hospital.758CACDE.Up2Date
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.dll
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.BLL/obj/Debug/net8.0/refint/HospitalSystem.BLL.dll
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.pdb
+C:/Users/Rovan Hussien/source/repos/HospitalSystem_ITI/HospitalSystem.BLL/obj/Debug/net8.0/ref/HospitalSystem.BLL.dll
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.deps.json
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.dll
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.pdb
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.DAL.dll
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.DAL.pdb
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.csproj.AssemblyReference.cache
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.AssemblyInfoInputs.cache
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.AssemblyInfo.cs
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.csproj.CoreCompileInputs.cache
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.BLL/obj/Debug/net8.0/Hospital.758CACDE.Up2Date
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.dll
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.BLL/obj/Debug/net8.0/refint/HospitalSystem.BLL.dll
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.pdb
+C:/Users/HiTech/Downloads/Compressed/Hosp_sys/HospitalSystem.BLL/obj/Debug/net8.0/ref/HospitalSystem.BLL.dll
+F:/c#level1/yasmin/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.deps.json
+F:/c#level1/yasmin/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.dll
+F:/c#level1/yasmin/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.pdb
+F:/c#level1/yasmin/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.DAL.dll
+F:/c#level1/yasmin/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.DAL.pdb
+F:/c#level1/yasmin/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.csproj.AssemblyReference.cache
+F:/c#level1/yasmin/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:/c#level1/yasmin/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.AssemblyInfoInputs.cache
+F:/c#level1/yasmin/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.AssemblyInfo.cs
+F:/c#level1/yasmin/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.csproj.CoreCompileInputs.cache
+F:/c#level1/yasmin/HospitalSystem.BLL/obj/Debug/net8.0/Hospital.758CACDE.Up2Date
+F:/c#level1/yasmin/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.dll
+F:/c#level1/yasmin/HospitalSystem.BLL/obj/Debug/net8.0/refint/HospitalSystem.BLL.dll
+F:/c#level1/yasmin/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.pdb
+F:/c#level1/yasmin/HospitalSystem.BLL/obj/Debug/net8.0/ref/HospitalSystem.BLL.dll
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.deps.json
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.dll
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.pdb
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.DAL.dll
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.DAL.pdb
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.csproj.AssemblyReference.cache
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.AssemblyInfoInputs.cache
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.AssemblyInfo.cs
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.csproj.CoreCompileInputs.cache
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.BLL/obj/Debug/net8.0/Hospital.758CACDE.Up2Date
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.dll
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.BLL/obj/Debug/net8.0/refint/HospitalSystem.BLL.dll
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.pdb
+C:/Users/Rovan Hussien/Downloads/yasmin/HospitalSystem.BLL/obj/Debug/net8.0/ref/HospitalSystem.BLL.dll
+F:/c#level1/rovan/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.deps.json
+F:/c#level1/rovan/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.dll
+F:/c#level1/rovan/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.pdb
+F:/c#level1/rovan/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.DAL.dll
+F:/c#level1/rovan/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.DAL.pdb
+F:/c#level1/rovan/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.csproj.AssemblyReference.cache
+F:/c#level1/rovan/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:/c#level1/rovan/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.AssemblyInfoInputs.cache
+F:/c#level1/rovan/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.AssemblyInfo.cs
+F:/c#level1/rovan/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.csproj.CoreCompileInputs.cache
+F:/c#level1/rovan/HospitalSystem.BLL/obj/Debug/net8.0/Hospital.758CACDE.Up2Date
+F:/c#level1/rovan/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.dll
+F:/c#level1/rovan/HospitalSystem.BLL/obj/Debug/net8.0/refint/HospitalSystem.BLL.dll
+F:/c#level1/rovan/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.pdb
+F:/c#level1/rovan/HospitalSystem.BLL/obj/Debug/net8.0/ref/HospitalSystem.BLL.dll
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.deps.json
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.dll
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.pdb
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.DAL.dll
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.DAL.pdb
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.csproj.AssemblyReference.cache
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.AssemblyInfoInputs.cache
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.AssemblyInfo.cs
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.csproj.CoreCompileInputs.cache
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.BLL/obj/Debug/net8.0/Hospital.758CACDE.Up2Date
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.dll
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.BLL/obj/Debug/net8.0/refint/HospitalSystem.BLL.dll
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.pdb
+C:/Users/Rovan Hussien/Downloads/laaaaaaaaaaaast/HospitalSystem.BLL/obj/Debug/net8.0/ref/HospitalSystem.BLL.dll
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.deps.json
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.dll
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.pdb
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.DAL.dll
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.DAL.pdb
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.csproj.AssemblyReference.cache
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.AssemblyInfoInputs.cache
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.AssemblyInfo.cs
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.csproj.CoreCompileInputs.cache
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.BLL/obj/Debug/net8.0/Hospital.758CACDE.Up2Date
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.dll
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.BLL/obj/Debug/net8.0/refint/HospitalSystem.BLL.dll
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.pdb
+C:/Users/ACER/Desktop/New folder (16)/HospitalSystem.BLL/obj/Debug/net8.0/ref/HospitalSystem.BLL.dll
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.deps.json
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.dll
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.pdb
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.DAL.dll
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.DAL.pdb
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.csproj.AssemblyReference.cache
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.AssemblyInfoInputs.cache
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.AssemblyInfo.cs
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.csproj.CoreCompileInputs.cache
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.BLL/obj/Debug/net8.0/Hospital.758CACDE.Up2Date
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.dll
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.BLL/obj/Debug/net8.0/refint/HospitalSystem.BLL.dll
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.pdb
+C:/Users/Rovan Hussien/Downloads/New folder (16)/HospitalSystem.BLL/obj/Debug/net8.0/ref/HospitalSystem.BLL.dll
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.deps.json
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.dll
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.pdb
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.DAL.dll
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.DAL.pdb
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.csproj.AssemblyReference.cache
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.AssemblyInfoInputs.cache
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.AssemblyInfo.cs
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.csproj.CoreCompileInputs.cache
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.BLL/obj/Debug/net8.0/Hospital.758CACDE.Up2Date
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.dll
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.BLL/obj/Debug/net8.0/refint/HospitalSystem.BLL.dll
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.pdb
+C:/Users/PC/Desktop/HospitalSystem/HospitalSystem.BLL/obj/Debug/net8.0/ref/HospitalSystem.BLL.dll
+/home/anon/Downloads/HospitalSystem/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.deps.json
+/home/anon/Downloads/HospitalSystem/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.dll
+/home/anon/Downloads/HospitalSystem/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.BLL.pdb
+/home/anon/Downloads/HospitalSystem/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.DAL.dll
+/home/anon/Downloads/HospitalSystem/HospitalSystem.BLL/bin/Debug/net8.0/HospitalSystem.DAL.pdb
+/home/anon/Downloads/HospitalSystem/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.csproj.AssemblyReference.cache
+/home/anon/Downloads/HospitalSystem/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/home/anon/Downloads/HospitalSystem/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.AssemblyInfoInputs.cache
+/home/anon/Downloads/HospitalSystem/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.AssemblyInfo.cs
+/home/anon/Downloads/HospitalSystem/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.csproj.CoreCompileInputs.cache
+/home/anon/Downloads/HospitalSystem/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.csproj.CopyComplete
+/home/anon/Downloads/HospitalSystem/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.dll
+/home/anon/Downloads/HospitalSystem/HospitalSystem.BLL/obj/Debug/net8.0/refint/HospitalSystem.BLL.dll
+/home/anon/Downloads/HospitalSystem/HospitalSystem.BLL/obj/Debug/net8.0/HospitalSystem.BLL.pdb
+/home/anon/Downloads/HospitalSystem/HospitalSystem.BLL/obj/Debug/net8.0/ref/HospitalSystem.BLL.dll
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.BLL\bin\Debug\net8.0\HospitalSystem.BLL.deps.json
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.BLL\bin\Debug\net8.0\HospitalSystem.BLL.dll
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.BLL\bin\Debug\net8.0\HospitalSystem.BLL.pdb
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.BLL\bin\Debug\net8.0\HospitalSystem.DAL.dll
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.BLL\bin\Debug\net8.0\HospitalSystem.DAL.pdb
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.BLL\obj\Debug\net8.0\HospitalSystem.BLL.csproj.AssemblyReference.cache
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.BLL\obj\Debug\net8.0\HospitalSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.BLL\obj\Debug\net8.0\HospitalSystem.BLL.AssemblyInfoInputs.cache
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.BLL\obj\Debug\net8.0\HospitalSystem.BLL.AssemblyInfo.cs
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.BLL\obj\Debug\net8.0\HospitalSystem.BLL.csproj.CoreCompileInputs.cache
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.BLL\obj\Debug\net8.0\Hospital.758CACDE.Up2Date
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.BLL\obj\Debug\net8.0\HospitalSystem.BLL.dll
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.BLL\obj\Debug\net8.0\refint\HospitalSystem.BLL.dll
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.BLL\obj\Debug\net8.0\HospitalSystem.BLL.pdb
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem.BLL\obj\Debug\net8.0\ref\HospitalSystem.BLL.dll
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.BLL\bin\Debug\net8.0\HospitalSystem.BLL.deps.json
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.BLL\bin\Debug\net8.0\HospitalSystem.BLL.dll
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.BLL\bin\Debug\net8.0\HospitalSystem.BLL.pdb
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.BLL\bin\Debug\net8.0\HospitalSystem.DAL.dll
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.BLL\bin\Debug\net8.0\HospitalSystem.DAL.pdb
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.BLL\obj\Debug\net8.0\HospitalSystem.BLL.csproj.AssemblyReference.cache
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.BLL\obj\Debug\net8.0\HospitalSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.BLL\obj\Debug\net8.0\HospitalSystem.BLL.AssemblyInfoInputs.cache
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.BLL\obj\Debug\net8.0\HospitalSystem.BLL.AssemblyInfo.cs
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.BLL\obj\Debug\net8.0\HospitalSystem.BLL.csproj.CoreCompileInputs.cache
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.BLL\obj\Debug\net8.0\Hospital.758CACDE.Up2Date
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.BLL\obj\Debug\net8.0\HospitalSystem.BLL.dll
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.BLL\obj\Debug\net8.0\refint\HospitalSystem.BLL.dll
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.BLL\obj\Debug\net8.0\HospitalSystem.BLL.pdb
+D:\Downloads\HospitalSystem\HospitalSystem\HospitalSystem\HospitalSystem.BLL\obj\Debug\net8.0\ref\HospitalSystem.BLL.dll

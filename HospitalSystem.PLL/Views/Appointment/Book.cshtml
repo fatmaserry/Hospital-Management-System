@@ -1,0 +1,57 @@
+﻿@using SH.BLL.ModelVm
+@model List<GetAllDoctorsVM>
+
+<h2 class="text-center mt-4">Book an Appointment</h2>
+
+<!-- Display error message if no rooms are available -->
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="alert alert-danger text-center">@ViewBag.ErrorMessage</div>
+}
+
+<!-- Form to select booking date, time, and doctor -->
+<div class="container d-flex justify-content-center align-items-center mt-5">
+    <div class="col-md-6">
+        <form asp-action="Book" method="post">
+            <div class="form-group mb-6">
+                <label for="name">Name</label>
+                <input type="text" class="form-control" asp-for="@User.Identity.Name" placeholder="Enter Name">
+            </div>
+
+            <!-- Dropdown for selecting a date -->
+            <div class="form-group mb-6">
+                <label for="date">Select Date:</label>
+                <select class="form-control" id="date" name="date" required>
+                    <option value="">-- Select Date --</option>
+                    @foreach (var day in ViewBag.DaysOfWeek)
+                    {
+                        <option value="@day.Value">@day.Text</option>
+                    }
+                </select>
+            </div>
+
+            <!-- Time selection -->
+            <div class="form-group mb-6">
+                <label for="time">Select Time:</label>
+                <input type="time" class="form-control" id="time" name="time" required min="09:00" max="17:00">
+            </div>
+
+            <!-- Dropdown for selecting a doctor -->
+            <div class="form-group mb-6">
+                <label for="doctorId">Select Doctor:</label>
+                <select class="form-control" id="doctorId" name="doctorId" required>
+                    <option value="">-- Select Doctor --</option>
+                    @foreach (var doctor in Model)
+                    {
+                        <option value="@doctor.Id">@doctor.FullName - @doctor.Specialization</option>
+                    }
+                </select>
+                @Html.ValidationMessage("DoctorId", "", new { @class = "text-danger" }) <!-- Doctor error message -->
+            </div>
+
+            <div class="text-center" style="margin: 20px 0px;">
+                <button type="submit" class="btn btn-primary">Book Appointment</button>
+            </div>
+        </form>
+    </div>
+</div>
