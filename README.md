@@ -44,5 +44,5 @@ A feature-rich **Hospital Management System** built using **.NET 8** to optimize
 	```bash
 	dotnet build
 5. **Run the application**
-  ```bash
-  dotnet run
+	  ```bash
+	  dotnet run
